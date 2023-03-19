@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAI YENUGWAR</h1>
-<h3 align="center">WEB DEVELOPER</h3>
+<h3 align="center">React DEVELOPER</h3>
 
 - 🌱 I’m currently learning **Javascript & React Js**
 
