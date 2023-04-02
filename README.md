@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAI YENUGWAR</h1>
-<h3 align="center">React DEVELOPER</h3>
+<h3 align="center">REACT DEVELOPER</h3>
 
-- 🌱 I’m currently learning **Javascript & React Js**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://saiyenugwar.bio.link/](https://saiyenugwar.bio.link/)
 
